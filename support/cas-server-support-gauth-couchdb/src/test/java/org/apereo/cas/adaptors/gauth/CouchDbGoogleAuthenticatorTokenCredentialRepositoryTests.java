@@ -1,5 +1,6 @@
 package org.apereo.cas.adaptors.gauth;
 
+import org.apereo.cas.adaptors.gauth.credential.BaseOneTimeTokenCredentialRepositoryTests;
 import org.apereo.cas.category.CouchDbCategory;
 import org.apereo.cas.config.CasCoreAuthenticationConfiguration;
 import org.apereo.cas.config.CasCoreAuthenticationHandlersConfiguration;
